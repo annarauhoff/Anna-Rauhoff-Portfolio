@@ -10,4 +10,5 @@ Outside of work, I enjoy traveling with my fiancé and painting. In my spare tim
 I hope to learn how to effectively represent data sets that contain more than 2 variables. I would also like to learn how to crique the representations that others create. 
 
 # Portfolio
+<iframe title="Average number of likes per Facebook post in 2016" aria-label="Bar Chart" id="datawrapper-chart-Sy7J4" src="//datawrapper.dwcdn.net/Sy7J4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="288"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
  
