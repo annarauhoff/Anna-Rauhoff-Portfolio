@@ -17,7 +17,5 @@ Data Visualization Critique #1
 
 Sketches: Controlling Color
 <img src="https://i.ibb.co/cCv4L2K/20190709-210847.png" alt="20190709-210847" border="0"> 
-
 <img src="https://i.ibb.co/vP4j44M/20190709-210837.png" alt="20190709-210837" border="0">
-
 <img src="https://i.ibb.co/bHT6F6c/20190709-210821-2.png" alt="20190709-210821-2" border="0">
