@@ -14,4 +14,7 @@ I hope to learn how to effectively represent data sets that contain more than 2 
 Data Visualization Critique #1
 
 <iframe title="Average number of likes per Facebook post in 2016" aria-label="Bar Chart" id="datawrapper-chart-Sy7J4" src="//datawrapper.dwcdn.net/Sy7J4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="288"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+Sketches: Controlling Color
+![20190709_210821_2.jpg](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
  
