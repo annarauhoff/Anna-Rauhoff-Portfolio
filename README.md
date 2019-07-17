@@ -23,7 +23,7 @@ Sketches: Controlling Color
 OIG Data Visualization #1
 Data Journalist perspecive
 
-From the perspective of a Data Journaist, I chose to highlight the primary increase in apprehensions; Family Unit apprehensions. I used a minimal color sheme with the goal of making the data clear and quick to understand. While working from the perpective of a data journalist, I wanted to convey a negative tone with regard to the increase specifically in family unit apprehensions, so I used red to set this tone. 
+From the perspective of a Data Journaist, I chose to highlight the primary increase in apprehensions; Family Unit apprehensions. This graph is designed the convey an increase in apprehensions for an article that takes a stance against apprehensions/ICE. I used a minimal color sheme with the goal of making the data clear and quick to understand. In order to convey a negative tone with regard to the increase specifically in family unit apprehensions, I used red. 
 
 <img src="https://i.ibb.co/vXqxHZB/Screen-Shot-2019-07-16-at-9-06-36-PM.png" alt="Screen-Shot-2019-07-16-at-9-06-36-PM" border="0">
 DHS Analyst perspective
