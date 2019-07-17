@@ -40,4 +40,6 @@ Original Visualization
 
 Critique
 
+I appreciate the economy of information used within the original visualization. However, the format and use of color are distracting and prohibited me from engaging with this chart. In order to quickly convey the information provided in the chart, I paired down the color scheme while delineating the top five candidates from the others who polled signifcantly lower. My goal was for thereader to be able to quickly understand who the top 5 demoncrat candidates polling in New Hampshire are. 
+
 <img src="https://i.ibb.co/CnrQVbV/Screen-Shot-2019-07-17-at-4-06-56-PM.png" alt="Screen-Shot-2019-07-17-at-4-06-56-PM" border="0">
