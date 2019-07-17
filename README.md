@@ -31,3 +31,10 @@ DHS Analyst perspective
 From the perspective of a DHS analyst, I chose to not highlight a specific population within the data. I used neutral colors for all populations, regardless of increase. I also chose to use the same title from the data chart, in order to simply convey the change in Family Unit apprehension instead of drawing attention to the increase. 
 
 <img src="https://i.ibb.co/17fDq1w/Screen-Shot-2019-07-16-at-9-05-13-PM.png" alt="Screen-Shot-2019-07-16-at-9-05-13-PM" border="0">
+
+Data Visualization Critique #2
+Original Visualization
+<img src="https://i.ibb.co/dKGkc5T/Screen-Shot-2019-07-16-at-9-21-19-PM.png" alt="Screen-Shot-2019-07-16-at-9-21-19-PM" border="0">
+
+Critique
+<img src="https://i.ibb.co/CnrQVbV/Screen-Shot-2019-07-17-at-4-06-56-PM.png" alt="Screen-Shot-2019-07-17-at-4-06-56-PM" border="0">
