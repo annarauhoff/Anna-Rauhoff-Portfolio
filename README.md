@@ -45,7 +45,7 @@ I appreciate the economy of information used within the original visualization. 
 <img src="https://i.ibb.co/CnrQVbV/Screen-Shot-2019-07-17-at-4-06-56-PM.png" alt="Screen-Shot-2019-07-17-at-4-06-56-PM" border="0">
 
 # Final Project
-Final Project Proposal Part 1
+Final Project Proposal-Part 1
 Neighborhood Price Projection, Pittsburgh PA
 
 Stakeholders and their roles: This visualization is designed to provide consumers with information about the stability of neighborhoods in Pittsburgh, and economic projections for future growth. 
