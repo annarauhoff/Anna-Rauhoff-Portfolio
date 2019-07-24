@@ -48,6 +48,9 @@ I appreciate the economy of information used within the original visualization. 
 Final Project Proposal-Part 1
 Neighborhood Price Projection, Pittsburgh PA
 
+Data source- www.zillow.com 
+Historical data is available through searching for individual neighborhoods. 
+
 Stakeholders and their roles: This visualization is designed to provide consumers with information about the stability of neighborhoods in Pittsburgh, and economic projections for future growth. 
 
 Project Summary: This project will involve scrubbing data from Zillow about 10 distinct Pittsburgh neighborhoods that represent the north side, south side, west end and east end. This data will be organized into a visual representation to convey the long term economic growth, indicating which neighborhoods are economically stable, or expected to experience growth in the near future. 
