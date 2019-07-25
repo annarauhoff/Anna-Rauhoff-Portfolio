@@ -62,7 +62,7 @@ I appreciate how distinctly each value was represented within the intial visuali
 
 I was unable to find a way to insert specific values within a graph type that suited this data set while using RAW. If using another program for creating data visualizations, I would annotate the top 5 countries to indicate the specific % of GDP per country. 
 
-# Final Project
+# Final Project - [click here to see final project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
 Final Project Proposal-Part 1
 Neighborhood Price Projection, Pittsburgh PA
 
