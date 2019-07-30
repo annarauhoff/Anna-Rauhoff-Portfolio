@@ -48,4 +48,6 @@ Receiving feedback was very helpful, and lead to making significant changes. I r
 
 I realized that my decision to buy a house has been largely impacted by which areas of the city experience increasing pollution. I learned that Liberty, PA (a suburb past the East End), has been in violation of EPA standards from 2012-2017 (2018/19 data is not available yet). This information is both personally compelling and surprising, so I changed my story to represent the violation of PM 2.5 standards. 
 
+In order to make this change, I had to use different data and obtained data about PM 2.5 violations through the Allegheny County Health Department: https://alleghenycounty.us/Health-Department/Resources/Data-and-Reporting/Air-Quality-Reports/Air-Quality-Reports-and-Studies.aspx
+
 I also received feedback from many people that I could use a higher economy of information within graphs. I had planned to use many small graphs, and ultimately this amount of information was not engaging for the viewer. The message I want to convey is simple; our neighbors in Liberty, PA are breathing in unacceptable amounts of PM 2.5, let’s learn about this and take action to help them. 
