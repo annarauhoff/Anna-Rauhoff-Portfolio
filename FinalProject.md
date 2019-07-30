@@ -25,6 +25,9 @@ III. Line graph that highlights the most economically stable neighborhoods. This
 <img src="https://i.ibb.co/DkSrw7t/Screen-Shot-2019-07-23-at-10-00-15-PM.png" alt="Screen-Shot-2019-07-23-at-10-00-15-PM" border="0">
 
 ## Final Project Part II
+
+After receiving feedback that my inital story did not provide a specific call to action, I changed the direction of my project to focus on pollutant violations in a specific area; Liberty PA in the Monongahela Valley. 
+
 a. The target audience you hope to reach with your story;
 The target audience for my story is residents of Pittsburgh and eastern suburbs who are affected by the pollution in the Monongahela Valley. 
 
