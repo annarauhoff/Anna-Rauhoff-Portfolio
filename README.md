@@ -62,4 +62,20 @@ I appreciate how distinctly each value was represented within the intial visuali
 
 I was unable to find a way to insert specific values within a graph type that suited this data set while using RAW. If using another program for creating data visualizations, I would annotate the top 5 countries to indicate the specific % of GDP per country. 
 
+## Practicing Persuasion
+
+<a href="https://ibb.co/wz5CNdV"><img src="https://i.ibb.co/ZMqK6f5/IMG-7602.jpg" alt="IMG-7602" border="0"></a>
+
+<a href="https://ibb.co/Qmxw09q"><img src="https://i.ibb.co/BsYMkL7/IMG-7596.jpg" alt="IMG-7596" border="0"></a>
+
+<a href="https://ibb.co/qB3JxmZ"><img src="https://i.ibb.co/0qRsQYw/IMG-7598.jpg" alt="IMG-7598" border="0"></a>
+
+<a href="https://ibb.co/S6HGJ26"><img src="https://i.ibb.co/qDhVxzD/IMG-7600.jpg" alt="IMG-7600" border="0"></a>
+
+<a href="https://ibb.co/y0RfM28"><img src="https://i.ibb.co/G7Jx1mV/IMG-7597.jpg" alt="IMG-7597" border="0"></a>
+
+<a href="https://ibb.co/D88C3MQ"><img src="https://i.ibb.co/LJJt4g1/IMG-7599.jpg" alt="IMG-7599" border="0"></a>
+
+<a href="https://ibb.co/WytH0w5"><img src="https://i.ibb.co/wWsd7Xg/IMG-7601.jpg" alt="IMG-7601" border="0"></a>
+
 # Final Project - [click here to see final project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
