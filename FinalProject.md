@@ -58,4 +58,4 @@ I also received feedback from many people that I could use a higher economy of i
 # Moodboard
 <a href="https://ibb.co/C2bmrwk"><img src="https://i.ibb.co/L5xYG0L/Screen-Shot-2019-07-31-at-8-52-42-PM.png" alt="Screen-Shot-2019-07-31-at-8-52-42-PM" border="0"></a>
 
-# Shorthand Story - [click here to see my Shorthand Story](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/story)
+# Shorthand Story - [click here to see my Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
