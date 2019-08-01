@@ -9,7 +9,7 @@
   <div class="sh-embed-meta">
     <div class="sh-embed-title">Mon Valley Pollution Problem</div>
     <div class="sh-embed-subtitle">PM 2.5 consistently exceeds federal standards in Liberty, PA </div>
-    <a class="sh-embed-btn" href="Anna-Rauhoff-portfolio-/FinalProject.md" data-embed-untouched>Enter</a>
+    <a class="sh-embed-btn" href="https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/" data-embed-untouched>Enter</a>
   </div>
   <div id="embed_article">
     <article>
