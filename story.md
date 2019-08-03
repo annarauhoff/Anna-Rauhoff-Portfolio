@@ -1,1 +1,1 @@
-(https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
+<https://preview.shorthand.com/dZTQVwD4AF3sLkA6>
