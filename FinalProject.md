@@ -59,3 +59,14 @@ I also received feedback from many people that I could use a higher economy of i
 <a href="https://ibb.co/C2bmrwk"><img src="https://i.ibb.co/L5xYG0L/Screen-Shot-2019-07-31-at-8-52-42-PM.png" alt="Screen-Shot-2019-07-31-at-8-52-42-PM" border="0"></a>
 
 # Shorthand Story - [click here to see my Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
+
+## Final Project Part II
+### Final Data Story
+
+The intended audidence for my story is the general population of Pittsburgh. My story is designed to provide concise information about the PM 2.5 pollution in neighboring areas that affects Pittsburgh residents, in order to ask them to take action in decreasing this pollution. PM 2.5 pollution primarily comes from industral pollution.
+
+When I moved to Pittsburgh, I was surprised to find that it was one of the US cities with the worst pollution. Moving from a larger city with a mugh higher population and industry, I assumed that due to it's population size Pittsburgh would not produce levels of pollution that are rountinely below EPA standards. I started to learn about pollution when my asthma became worse. My partner and I began searching for a house to buy through reading pollution maps. I kept having conversations with friends who were surprised to find that local PM 2.5 emissions rank at high levels, and have serious health effects. 
+
+While designing this project, I found it most challenging to create a call to action. I found it important to focus on pollution because while there is a considerable amount of public information on this topic, I was still surprised to learn the rate at which it effects Pittburgh residents. I think discusing environmental actions can seem overwhelming because as a public citizen, the decision making about reguating these issues on a larger scale is out of my hands. However, there are actions we can take in favor of the environment like voting for politicians who have a track record of monitoring emission standards and supporting a decrease in the pollution of local communities. 
+
+Another challenge I encountered was communicating about environmental regulations and standards to a wide context of people who have a mixed level of experience an knowledge in discussing these issues. Most people don't know what PM 2.5 is, or that the violation of EPA standards occurs though the number of days in which emissions are higer than the rate established by the EPA. For example, the air quality in Pittsburgh is measured through days in violation rather than jut a specific number. Within 60 seconds, I must bridge the insular language gap created by EPA standards and create a call to action. I decided to focus on a couple of main points within the short presentation without touching upon meausrement standards. The Shorthand page will be used to providenmore in depth information about how PM 2.5 emissions are quantified. 
