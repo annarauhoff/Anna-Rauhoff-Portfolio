@@ -6,8 +6,8 @@ Outside of work, I enjoy traveling with my fiancé and painting. In my spare tim
 # What I hope to learn
 I hope to learn how to effectively represent data sets that contain more than 2 variables. I would also like to learn how to crique the representations that others create. 
 
-## [Final Project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
+# [Final Project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
 
-## [Portfolio](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/portfolio)
+# [Portfolio](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/portfolio)
 
 
