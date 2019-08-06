@@ -15,6 +15,8 @@ I hope to learn how to effectively represent data sets that contain more than 2 
 
 <iframe title="Average number of likes per Facebook post in 2016" aria-label="Bar Chart" id="datawrapper-chart-Sy7J4" src="//datawrapper.dwcdn.net/Sy7J4/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="288"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
+# Final Project - [click here to see final project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
+
 ### Sketches: Controlling Color
 
 <img src="https://i.ibb.co/cCv4L2K/20190709-210847.png" alt="20190709-210847" border="0"> 
@@ -78,4 +80,4 @@ I was unable to find a way to insert specific values within a graph type that su
 
 <a href="https://ibb.co/WytH0w5"><img src="https://i.ibb.co/wWsd7Xg/IMG-7601.jpg" alt="IMG-7601" border="0"></a>
 
-# Final Project - [click here to see final project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/FinalProject)
+
