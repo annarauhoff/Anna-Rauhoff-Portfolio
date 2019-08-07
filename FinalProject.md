@@ -68,7 +68,8 @@ I also received feedback from many people that I could use a higher economy of i
 <a href="https://ibb.co/C2bmrwk"><img src="https://i.ibb.co/L5xYG0L/Screen-Shot-2019-07-31-at-8-52-42-PM.png" alt="Screen-Shot-2019-07-31-at-8-52-42-PM" border="0"></a>
 
 ## [Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
-Sources are documented either Images->Alt text, or under the text itself. 
+
+Sources are documented either Images->Alt caption, or under the text itself. 
 
 ## Part 3
 ### Final Data Story
