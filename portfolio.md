@@ -69,6 +69,5 @@ I was unable to find a way to insert specific values within a graph type that su
 
 <a href="https://ibb.co/WytH0w5"><img src="https://i.ibb.co/wWsd7Xg/IMG-7601.jpg" alt="IMG-7601" border="0"></a>
 
-### [Final Project](https://annarauhoff.github.io/Anna-Rauhoff-portfolio/FinalProject)
-### [Home](https://annarauhoff.github.io/Anna-Rauhoff-portfolio/README)
+
 
