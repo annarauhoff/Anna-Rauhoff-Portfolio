@@ -56,10 +56,10 @@ In order to make this change, I had to use different data and obtained data abou
 
 I also received feedback from many people that I could use a higher economy of information within graphs. I had planned to use many small graphs, and ultimately this amount of information was not engaging for the viewer. The message I want to convey is simple; our neighbors in Liberty, PA are breathing in unacceptable amounts of PM 2.5, let’s learn about this and take action to help them. 
 
-# Moodboard
+## Moodboard
 <a href="https://ibb.co/C2bmrwk"><img src="https://i.ibb.co/L5xYG0L/Screen-Shot-2019-07-31-at-8-52-42-PM.png" alt="Screen-Shot-2019-07-31-at-8-52-42-PM" border="0"></a>
 
-# Shorthand Story - [click here to see my Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
+## [Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
 
 ## Final Project Part II
 ### Final Data Story
