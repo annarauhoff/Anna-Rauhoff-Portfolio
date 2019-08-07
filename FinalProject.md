@@ -1,5 +1,5 @@
 # Final Project
-## Final Project Proposal-Part 1
+## Final Project, Part 1
 ### The inital proposal for this project changed after reciving feedback in Part 2
 Neighborhood Price Projection, Pittsburgh PA
 
@@ -25,7 +25,7 @@ III. Line graph that highlights the most economically stable neighborhoods. This
 
 <img src="https://i.ibb.co/DkSrw7t/Screen-Shot-2019-07-23-at-10-00-15-PM.png" alt="Screen-Shot-2019-07-23-at-10-00-15-PM" border="0">
 
-## Final Project Part II
+## Final Project, Part 2
 
 After receiving feedback that my inital story did not provide a specific call to action, I changed the direction of my project to focus on pollutant violations in Pittsburgh. 
 
@@ -70,7 +70,7 @@ I also received feedback from many people that I could use a higher economy of i
 ## [Shorthand Story](https://preview.shorthand.com/dZTQVwD4AF3sLkA6)
 Sources are documented either Images->Alt text, or under the text itself. 
 
-## Final Project Part II
+## Final Project, Part 3
 ### Final Data Story
 
 The intended audidence for my story is the general population of Pittsburgh. My story is designed to provide concise information about the PM 2.5 pollution in neighboring areas that affects Pittsburgh residents, in order to ask them to take action in decreasing this pollution. PM 2.5 pollution primarily comes from industral pollution.
