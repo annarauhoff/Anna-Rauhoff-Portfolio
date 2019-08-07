@@ -81,5 +81,5 @@ While designing this project, I found it most challenging to create a call to ac
 
 Another challenge I encountered was communicating about environmental regulations and standards to a wide context of people who have a mixed level of experience an knowledge in discussing these issues. Most people don't know what PM 2.5 is, or that the violation of EPA standards occurs though the number of days in which emissions are higer than the rate established by the EPA. For example, the air quality in Pittsburgh is measured through days in violation rather than jut a specific number. Within 60 seconds, I must bridge the insular language gap created by EPA standards and create a call to action. I decided to focus on a couple of main points within the short presentation without touching upon meausrement standards. The Shorthand page will be used to provide more in depth information about how PM 2.5 emissions are quantified. 
 
-### [Portfolio](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/portfolio)
-### [Home](https://annarauhoff.github.io/Anna-Rauhoff-portfolio-/)
+### [Portfolio](https://annarauhoff.github.io/Anna-Rauhoff-Portfolio/portfolio)
+### [Home](https://annarauhoff.github.io/Anna-Rauhoff-Portfolio/README)
