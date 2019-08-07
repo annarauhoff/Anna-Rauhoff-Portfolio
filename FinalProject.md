@@ -1,6 +1,6 @@
 # Final Project
 ## Part 1
-### The inital proposal for this project changed after reciving feedback in Part 2
+### The inital proposal for this project changed after reciving feedback in Part 2.
 Neighborhood Price Projection, Pittsburgh PA
 
 Data source- www.zillow.com 
@@ -37,13 +37,13 @@ After receiving feedback that my inital story did not provide a specific call to
 
 #### [Toxic Ten](http://toxicten.org/cheswick-power)
 
-a. The target audience you hope to reach with your story;
+a. Target Audience;
 The target audience for my story is residents of Pittsburgh who are affected by the pollution. 
 
-b. Your approach to identifying representative individuals to interview;
+b. Approach to identifying representative individuals to interview;
 I chose to interview individuals who both know me, and colleagues who I do not have a consistent rapport with. My logic was that those who know me would be able to provide feedback as it relates to my overall communication goals. However, those who I do not communicate with often would be more likely to provide direct, unfiltered feedback. 
 
-c. Your interview script; 
+c. Interview script; 
 I used two different interview scripts for those I already have a dialogue with (1), and those I communicate with less often (2). 
 
 1a. Thank you for agreeing to provide feedback about the following visual representation. I would like to review this representation to make the communication as dynamic and clear as possible. Would you mind providing feedback on how I could improve within this area. 
