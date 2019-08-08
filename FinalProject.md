@@ -74,6 +74,14 @@ Sources are documented either Images->Alt caption, or under the text itself.
 ## Part 3
 ### Final Data Story
 
+### Data sources 
+
+#### [Allegheny County Health Department](https://alleghenycounty.us/Health-Department/Resources/Data-and-Reporting/Air-Quality-Reports/Air-Quality-Reports-and-Studies.aspx)
+
+#### [Breathe Project](https://breatheproject.org/resources/air-pollution-sources/)
+
+#### [Toxic Ten](http://toxicten.org/cheswick-power)
+
 The intended audidence for my story is the general population of Pittsburgh. My story is designed to provide concise information about the PM 2.5 pollution in neighboring areas that affects Pittsburgh residents, in order to ask them to take action in decreasing this pollution. PM 2.5 pollution primarily comes from industral pollution.
 
 When I moved to Pittsburgh, I was surprised to find that it was one of the US cities with the worst pollution. Moving from a larger city with a mugh higher population and industry, I assumed that due to it's population size Pittsburgh would not produce levels of pollution that are rountinely below EPA standards. I started to learn about pollution when my asthma became worse. My partner and I began searching for a house to buy through reading pollution maps. I kept having conversations with friends who were surprised to find that local PM 2.5 emissions rank at high levels, and have serious health effects. 
